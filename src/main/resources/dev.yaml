@@ -1,0 +1,10 @@
+http:
+  port: "8081"
+  dregion: "DEV"
+  
+db:
+  host: "mudb.mule-training.com"
+  port: "3306"
+  username: "mule"
+  password: "![Nkz9HVcv68PSm3//12T+Ig==]"
+  database: "training"
