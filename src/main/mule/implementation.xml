@@ -62,6 +62,6 @@ payload map ( payload01 , indexOfPayload01 ) -> {
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
-		<logger level="INFO" doc:name="Logger" doc:id="577f189c-0ce3-4619-9d4d-439124168348" message="Region Name : ${http.dregion}"/>
+		<logger level="INFO" doc:name="Logger" doc:id="577f189c-0ce3-4619-9d4d-439124168348" message="Region from config: ${http.dregion}"/>
 	</flow>
 </mule>

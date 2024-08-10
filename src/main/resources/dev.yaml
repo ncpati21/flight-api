@@ -1,6 +1,6 @@
 http:
   port: "8081"
-  dregion: "DEV"
+  dregion: "DEV1"
   
 db:
   host: "mudb.mule-training.com"
